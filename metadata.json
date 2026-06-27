@@ -1,0 +1,6 @@
+{
+  "name": "Карта лета",
+  "description": "Интерактивный летний читательский дневник для детей после 3 класса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
